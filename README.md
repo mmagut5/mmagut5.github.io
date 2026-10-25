@@ -1,5 +1,3 @@
-# Hi, I'm Mercy Magut 
-
 **Data Analyst | Financial Data Analyst** based in Kenya
 
 I turn complex transactional data, financial metrics, and customer behavior into clear insights, interactive dashboards, and actionable business strategies.
