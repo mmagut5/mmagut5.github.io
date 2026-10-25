@@ -1,4 +1,3 @@
-**Data Analyst | Financial Data Analyst** based in Kenya
 
 I turn complex transactional data, financial metrics, and customer behavior into clear insights, interactive dashboards, and actionable business strategies.
 
@@ -76,6 +75,8 @@ Finance Intern | Uwezo Fund Oversight Board (Public Service Internship Program) 
 - Cleaned and analyzed financial data in Excel to improve the accuracy and reliability of records
 - Evaluated financial performance across constituencies, highlighting inefficiencies and recommending improvement opportunities
 - Collaborated with cross-functional teams to ensure proper documentation, reporting, and accountability of funds
+
+  
 ---
 
 ## Education & Certifications
