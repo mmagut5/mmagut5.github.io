@@ -19,7 +19,6 @@ I'm a finance and data analytics professional with a B.Sc. in Financial Engineer
 | Accounting & Finance Tools | QuickBooks, Invoicing, Reconciliation, Accounts Receivable |
 | Finance & Risk | Financial Analysis, Financial Modeling, Credit Analysis, Credit Risk Monitoring, Loan Portfolio Analysis, Risk Analysis |
 
-**Core competencies:** Analytical Thinking · Problem-Solving · Attention to Detail · Stakeholder Communication · Cross-Functional Collaboration
 ---
 
 ## Featured Projects
