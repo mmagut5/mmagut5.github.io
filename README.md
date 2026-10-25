@@ -27,6 +27,8 @@ I'm a finance and data analytics professional with a B.Sc. in Financial Engineer
 ### 1. Unlocking Retail Growth: Customer Behavior Analysis Dashboard
 Transforming consumer data into targeted marketing and retention strategies.
 
+![Customer Behavior Dashboard](assets/img/customer_behavior_analysis.png)
+
 - Cleaned and prepared **3,900 purchase records** using Python (pandas)
 - Ran analysis queries in **PostgreSQL**
 - Built an interactive **Power BI** dashboard to surface customer segments, buying patterns, and retention opportunities
@@ -37,12 +39,15 @@ Transforming consumer data into targeted marketing and retention strategies.
 ### 2. Bike Sales Dashboard Analysis
 An interactive Excel dashboard built with Pivot Tables and Pivot Charts to analyze bike purchase patterns across customer demographics: income, age, gender, education, marital status, region, and commute distance.
 
+![Bike Sales Dashboard](assets/img/bike_sales_dashboard.png)
+
 - Identified purchasing patterns and generated data-driven customer insights
 - **Tech:** Microsoft Excel (Pivot Tables, Pivot Charts)
 - 📄 [Read the report](https://drive.google.com/open?id=1Su3sWF_RuLxenMPZuLyBsoh5tW5dwjYKWuWdl2s3lhY)
 
 ### 3. Personal Finance & Budget Tracker (50/30/20 Framework)
 A dynamic Google Sheets tracker built around the 50/30/20 budgeting rule.
+![Personal Finance Tracker](assets/img/finanace_tracker.png)
 
 - Tracks income and expenses with dropdown-based categorization
 - Automatically calculates target vs. actual ratios
