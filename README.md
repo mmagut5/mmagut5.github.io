@@ -1,4 +1,3 @@
-# mercymagut.github.io
 # Hi, I'm Mercy Magut 
 
 **Data Analyst | Financial Data Analyst** based in Kenya
