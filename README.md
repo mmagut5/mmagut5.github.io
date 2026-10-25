@@ -11,15 +11,15 @@ I'm a finance and data analytics professional with a B.Sc. in Financial Engineer
 
 ## Tools & Skills
 
-Programming & Databases: Python (pandas), SQL, PostgreSQL, MySQL, Jupyter Notebooks
-Data Analysis: Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Forecasting, Data Modeling
-Data Visualization & Reporting: Power BI, Microsoft Excel (Advanced: Pivot Tables, Pivot Charts), Dashboard Development, Financial Reporting
-Accounting & Finance Tools: QuickBooks, Invoicing, Reconciliation, Accounts Receivable
-Finance & Risk: Financial Analysis, Financial Modeling, Credit Analysis, Credit Risk Monitoring, Loan Portfolio Analysis, Investment Analysis, Risk Analysis
+| Area | Tools / Skills |
+|---|---|
+| Programming & Databases | Python (pandas), SQL, PostgreSQL, MySQL, Jupyter Notebooks |
+| Data Analysis | Data Cleaning, EDA, Statistical Analysis, Forecasting, Data Modeling |
+| Visualization & Reporting | Power BI, Excel (Pivot Tables, Pivot Charts), Dashboard Development, Financial Reporting |
+| Accounting & Finance Tools | QuickBooks, Invoicing, Reconciliation, Accounts Receivable |
+| Finance & Risk | Financial Analysis, Financial Modeling, Credit Analysis, Credit Risk Monitoring, Loan Portfolio Analysis, Risk Analysis |
 
-CORE COMPETENCIES
-Analytical Thinking | Problem-Solving | Attention to Detail | Stakeholder Communication | Cross-Functional Collaboration
-
+**Core competencies:** Analytical Thinking · Problem-Solving · Attention to Detail · Stakeholder Communication · Cross-Functional Collaboration
 ---
 
 ## Featured Projects
