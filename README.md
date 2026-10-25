@@ -1,6 +1,3 @@
-<img src="assets/img/headshot_png.jpeg" alt="Mercy Magut" style="width:160px;height:160px;object-fit:cover;border-radius:50%;">
-
-
 I turn complex transactional data, financial metrics, and customer behavior into clear insights, interactive dashboards, and actionable business strategies.
 
  [mjepkorir69@gmail.com](mailto:mjepkorir69@gmail.com) ·  [GitHub](https://github.com/mmagut5) ·  [Google Sites Portfolio](https://sites.google.com/view/mercymagut/home)
