@@ -6,45 +6,66 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta name="description" content="Mercy Magut — Financial Data Analyst focused on financial analysis, business intelligence, credit and risk analytics.">
+  <meta name="description" content="Mercy Magut — Financial Engineering graduate and data analytics professional focused on financial analysis, business intelligence, credit and risk analytics.">
+
+  <meta name="author" content="Mercy Magut">
+  <meta name="theme-color" content="#ffffff">
 
   <title>Mercy Magut | Financial Data Analyst</title>
 
+  <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
+  <!-- Main stylesheet -->
   <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-  <!-- NAVIGATION -->
+  <!-- ================= NAVIGATION ================= -->
+
   <header class="site-header">
+
     <nav class="nav container" aria-label="Main navigation">
 
-      <a class="brand" href="#home">MM<span>.</span></a>
+      <a class="brand" href="#home" aria-label="Mercy Magut homepage">
+        MM<span>.</span>
+      </a>
 
-      <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false">
+      <button
+        class="menu-toggle"
+        type="button"
+        aria-label="Open navigation"
+        aria-expanded="false"
+        aria-controls="nav-links">
         ☰
       </button>
 
-      <div class="nav-links">
+      <div class="nav-links" id="nav-links">
+
         <a href="#about">About</a>
         <a href="#skills">Skills</a>
         <a href="#projects">Projects</a>
         <a href="#experience">Experience</a>
         <a href="#education">Education</a>
-        <a href="#contact" class="nav-contact">Contact <span>↗</span></a>
+        <a href="#contact" class="nav-contact">
+          Contact <span>↗</span>
+        </a>
+
       </div>
 
     </nav>
+
   </header>
+
 
   <main>
 
-    <!-- HERO SECTION -->
+    <!-- ================= HERO SECTION ================= -->
+
     <section class="hero container" id="home">
 
       <div class="hero-copy">
@@ -78,9 +99,10 @@
             Get in touch
           </a>
 
-          <a class="btn btn-secondary"
-             href="assets/img/Mercy_Jep_CV.pdf"
-             download>
+          <a
+            class="btn btn-secondary"
+            href="assets/img/Mercy_Jep_CV.pdf"
+            download>
             Download CV ↓
           </a>
 
@@ -106,6 +128,7 @@
         </div>
 
       </div>
+
 
       <aside class="hero-panel">
 
@@ -142,53 +165,71 @@
 
     </section>
 
-    <!-- AREAS OF FOCUS -->
+
+    <!-- ================= AREAS OF FOCUS ================= -->
+
     <section class="ticker" aria-label="Areas of focus">
 
       <div class="ticker-inner">
+
         <span>FINANCIAL ANALYSIS</span>
         <i>✳</i>
+
         <span>BUSINESS INTELLIGENCE</span>
         <i>✳</i>
+
         <span>CREDIT & RISK</span>
         <i>✳</i>
+
         <span>DATA STORYTELLING</span>
         <i>✳</i>
+
       </div>
 
     </section>
 
-    <!-- ABOUT SECTION -->
+
+    <!-- ================= ABOUT SECTION ================= -->
+
     <section class="section container" id="about">
 
       <div class="section-heading">
+
         <p class="eyebrow">01 / ABOUT</p>
+
         <h2>
           Finance-minded.<br>
           <span>Data-driven.</span>
         </h2>
+
       </div>
+
 
       <div class="about-profile">
 
-          <p class="lead">
-            I bring together a foundation in Financial Engineering and hands-on experience supporting finance, credit monitoring, reconciliations and reporting.
-          </p>
+        <p class="lead">
+          I am a Financial Engineering graduate with practical experience across finance operations, credit monitoring, reconciliations and financial reporting. I combine financial knowledge with data analytics tools to examine business performance, identify patterns and turn information into actionable insights.
+        </p>
 
-          <p>
-            My interest is in using data to answer practical business questions: What is driving performance? Where are risks emerging? How can teams make more confident decisions?
-          </p>
+        <p>
+          My interest lies in using data to answer practical business questions: What is driving financial performance? Where are risks emerging? What do the numbers reveal about business operations? How can organisations make more informed decisions?
+        </p>
 
-          <p>
-            Through academic training, professional experience and independent projects, I have developed experience working with SQL, Python, Excel and Power BI to clean, analyse and communicate data.
-          </p>
+        <p>
+          Through academic training, professional experience and independent projects, I have developed practical skills in SQL, Python, Excel and Power BI. I enjoy working with data, from cleaning and analysing datasets to building reports and visualisations that communicate meaningful findings.
+        </p>
 
-          <div class="about-tags">
-            <span>Analytical thinking</span>
-            <span>Financial understanding</span>
-            <span>Clear communication</span>
-            <span>Continuous learning</span>
-          </div>
+        <p>
+          I am particularly interested in financial data analysis, credit and risk analytics, investment analysis and business intelligence, where analytical thinking and financial understanding can contribute to better decision-making.
+        </p>
+
+        <div class="about-tags">
+
+          <span>Analytical thinking</span>
+          <span>Financial understanding</span>
+          <span>Problem-solving</span>
+          <span>Clear communication</span>
+          <span>Continuous learning</span>
 
         </div>
 
@@ -196,51 +237,76 @@
 
     </section>
 
-    <!-- SKILLS SECTION -->
+
+    <!-- ================= SKILLS SECTION ================= -->
+
     <section class="section skills-section" id="skills">
 
       <div class="container">
 
         <div class="section-heading">
+
           <p class="eyebrow">02 / TOOLKIT</p>
+
           <h2>
             Skills that turn<br>
             <span>questions into insight.</span>
           </h2>
+
         </div>
+
 
         <div class="skills-grid">
 
           <article class="skill-card">
+
             <div class="skill-number">01</div>
+
             <h3>Data & programming</h3>
+
             <p>
               Python · Pandas · SQL · MySQL · PostgreSQL · Jupyter Notebook
             </p>
+
           </article>
 
+
           <article class="skill-card">
+
             <div class="skill-number">02</div>
+
             <h3>Business intelligence</h3>
+
             <p>
-              Power BI · Excel · PivotTables · dashboards · data visualisation
+              Power BI · Excel · PivotTables · Dashboards · Data visualisation
             </p>
+
           </article>
 
+
           <article class="skill-card">
+
             <div class="skill-number">03</div>
+
             <h3>Analysis</h3>
+
             <p>
-              Data cleaning · exploratory analysis · statistical analysis · reporting · forecasting
+              Data cleaning · Exploratory analysis · Statistical analysis · Reporting · Forecasting
             </p>
+
           </article>
 
+
           <article class="skill-card">
+
             <div class="skill-number">04</div>
+
             <h3>Finance & risk</h3>
+
             <p>
-              Financial analysis · credit monitoring · risk analysis · reconciliations · accounts receivable
+              Financial analysis · Credit monitoring · Risk analysis · Reconciliations · Accounts receivable
             </p>
+
           </article>
 
         </div>
@@ -249,17 +315,22 @@
 
     </section>
 
-    <!-- PROJECTS SECTION -->
+
+    <!-- ================= PROJECTS SECTION ================= -->
+
     <section class="section container" id="projects">
 
       <div class="projects-heading">
 
         <div class="section-heading">
+
           <p class="eyebrow">03 / SELECTED WORK</p>
+
           <h2>
             Projects with a<br>
             <span>business question.</span>
           </h2>
+
         </div>
 
         <p class="projects-intro">
@@ -268,22 +339,27 @@
 
       </div>
 
+
       <div class="project-grid">
 
+
         <!-- PROJECT 1: NAIROBI AIRBNB -->
+
         <article class="project-card project-featured">
 
           <div class="project-visual airbnb-visual">
 
             <img
               src="assets/img/Nairobi_airbnb.png"
-              alt="Nairobi Airbnb market analysis visualisation">
+              alt="Nairobi Airbnb market analysis visualisation"
+              loading="lazy">
 
             <span class="visual-label">
               PYTHON / MARKET ANALYSIS
             </span>
 
           </div>
+
 
           <div class="project-info">
 
@@ -307,23 +383,27 @@
             </p>
 
             <div class="tag-list">
+
               <span>Python</span>
               <span>Pandas</span>
               <span>Jupyter Notebook</span>
               <span>Data analysis</span>
+
             </div>
 
             <div class="project-links">
 
-              <a href="https://github.com/mmagut5/nairobi-airbnb-analysis"
-                 target="_blank"
-                 rel="noopener">
+              <a
+                href="https://github.com/mmagut5/nairobi-airbnb-analysis"
+                target="_blank"
+                rel="noopener noreferrer">
                 View repository ↗
               </a>
 
-              <a href="https://docs.google.com/document/d/1vbewhUiTe0tZhihkJGmU9SjdBiGJ5iW1UTJegGQPjZo/edit?tab=t.0"
-                 target="_blank"
-                 rel="noopener">
+              <a
+                href="https://docs.google.com/document/d/1vbewhUiTe0tZhihkJGmU9SjdBiGJ5iW1UTJegGQPjZo/edit?tab=t.0"
+                target="_blank"
+                rel="noopener noreferrer">
                 Read market documentation ↗
               </a>
 
@@ -333,20 +413,25 @@
 
         </article>
 
+
+
         <!-- PROJECT 2: CUSTOMER BEHAVIOUR -->
+
         <article class="project-card">
 
           <div class="project-visual retail-visual">
 
             <img
               src="assets/img/Customer_behavior.png"
-              alt="Retail customer behaviour analysis dashboard">
+              alt="Retail customer behaviour analysis dashboard"
+              loading="lazy">
 
             <span class="visual-label">
               POWER BI / CUSTOMER INSIGHTS
             </span>
 
           </div>
+
 
           <div class="project-info">
 
@@ -370,23 +455,27 @@
             </p>
 
             <div class="tag-list">
+
               <span>Python</span>
               <span>PostgreSQL</span>
               <span>Power BI</span>
               <span>Data cleaning</span>
+
             </div>
 
             <div class="project-links">
 
-              <a href="https://github.com/mmagut5/customer_behavior-_analysis"
-                 target="_blank"
-                 rel="noopener">
+              <a
+                href="https://github.com/mmagut5/customer_behavior-_analysis"
+                target="_blank"
+                rel="noopener noreferrer">
                 View repository ↗
               </a>
 
-              <a href="https://drive.google.com/open?id=1rH0tacD8z2b6nsejMZgjnKb9wlvqxTeoJ-XycNSBhgw"
-                 target="_blank"
-                 rel="noopener">
+              <a
+                href="https://drive.google.com/open?id=1rH0tacD8z2b6nsejMZgjnKb9wlvqxTeoJ-XycNSBhgw"
+                target="_blank"
+                rel="noopener noreferrer">
                 View report ↗
               </a>
 
@@ -396,20 +485,25 @@
 
         </article>
 
+
+
         <!-- PROJECT 3: PERSONAL FINANCE TRACKER -->
+
         <article class="project-card">
 
           <div class="project-visual finance-visual">
 
             <img
               src="assets/img/finanace_tracker.png"
-              alt="Personal finance and budget tracker">
+              alt="Personal finance and budget tracker"
+              loading="lazy">
 
             <span class="visual-label">
               GOOGLE SHEETS / PERSONAL FINANCE
             </span>
 
           </div>
+
 
           <div class="project-info">
 
@@ -433,17 +527,20 @@
             </p>
 
             <div class="tag-list">
+
               <span>Google Sheets</span>
               <span>Excel</span>
               <span>Budgeting</span>
               <span>Financial tracking</span>
+
             </div>
 
             <div class="project-links">
 
-              <a href="https://drive.google.com/open?id=1QGpGCqPQ2_rMVoiJPgsMcrWyqVq5YOcO76mi4wnaE6M"
-                 target="_blank"
-                 rel="noopener">
+              <a
+                href="https://drive.google.com/open?id=1QGpGCqPQ2_rMVoiJPgsMcrWyqVq5YOcO76mi4wnaE6M"
+                target="_blank"
+                rel="noopener noreferrer">
                 View tracker ↗
               </a>
 
@@ -453,7 +550,10 @@
 
         </article>
 
+
+
         <!-- PROJECT 4: LAYOFFS SQL -->
+
         <article class="project-card">
 
           <div class="project-visual sql-visual">
@@ -469,6 +569,7 @@
             </span>
 
           </div>
+
 
           <div class="project-info">
 
@@ -492,17 +593,20 @@
             </p>
 
             <div class="tag-list">
+
               <span>MySQL</span>
               <span>SQL</span>
               <span>Data cleaning</span>
               <span>EDA</span>
+
             </div>
 
             <div class="project-links">
 
-              <a href="https://github.com/mmagut5/Layoffs_data_analysis_sql-"
-                 target="_blank"
-                 rel="noopener">
+              <a
+                href="https://github.com/mmagut5/Layoffs_data_analysis_sql-"
+                target="_blank"
+                rel="noopener noreferrer">
                 View repository ↗
               </a>
 
@@ -512,20 +616,25 @@
 
         </article>
 
+
+
         <!-- PROJECT 5: BIKE SALES -->
+
         <article class="project-card">
 
           <div class="project-visual bike-visual">
 
             <img
               src="assets/img/bike_sales_dashboard.png"
-              alt="Bike sales Excel dashboard preview">
+              alt="Bike sales Excel dashboard preview"
+              loading="lazy">
 
             <span class="visual-label">
               EXCEL / SALES DASHBOARD
             </span>
 
           </div>
+
 
           <div class="project-info">
 
@@ -549,17 +658,20 @@
             </p>
 
             <div class="tag-list">
+
               <span>Excel</span>
               <span>PivotTables</span>
               <span>Data cleaning</span>
               <span>Dashboarding</span>
+
             </div>
 
             <div class="project-links">
 
-              <a href="https://drive.google.com/open?id=1Su3sWF_RuLxenMPZuLyBsoh5tW5dwjYKWuWdl2s3lhY"
-                 target="_blank"
-                 rel="noopener">
+              <a
+                href="https://drive.google.com/open?id=1Su3sWF_RuLxenMPZuLyBsoh5tW5dwjYKWuWdl2s3lhY"
+                target="_blank"
+                rel="noopener noreferrer">
                 View project ↗
               </a>
 
@@ -571,28 +683,38 @@
 
       </div>
 
+
       <p class="project-note">
         These projects demonstrate practical applications of data preparation, analysis and reporting. Detailed methods and supporting materials are available through the linked repositories and reports.
       </p>
 
     </section>
 
-    <!-- EXPERIENCE SECTION -->
+
+
+    <!-- ================= EXPERIENCE SECTION ================= -->
+
     <section class="section experience-section" id="experience">
 
       <div class="container">
 
         <div class="section-heading">
+
           <p class="eyebrow">04 / EXPERIENCE</p>
+
           <h2>
             Where finance meets<br>
             <span>day-to-day operations.</span>
           </h2>
+
         </div>
+
 
         <div class="timeline">
 
+
           <!-- SOSIANI FLOWERS -->
+
           <article class="timeline-item">
 
             <div class="timeline-date">
@@ -600,32 +722,48 @@
               <span>ELDORET, KENYA</span>
             </div>
 
+
             <div class="timeline-content">
 
               <h3>Finance & Accounts Intern</h3>
+
               <h4>Sosiani Flowers</h4>
 
               <ul>
-                <li>Conducted monthly invoice reconciliations, comparing invoice information against supporting records to help identify discrepancies and maintain financial accuracy.</li>
 
-                <li>Recorded transactions and prepared customer invoices while supporting accounts receivable processes using QuickBooks.</li>
+                <li>
+                  Conducted monthly invoice reconciliations, comparing invoice information against supporting records to help identify discrepancies and maintain financial accuracy.
+                </li>
 
-                <li>Worked with sales information and Flower Meister International records to support finance and reporting activities.</li>
+                <li>
+                  Recorded transactions and prepared customer invoices while supporting accounts receivable processes using QuickBooks.
+                </li>
 
-                <li>Supported export documentation, permit applications and coordination with logistics and clearing stakeholders.</li>
+                <li>
+                  Worked with sales information and Flower Meister International records to support finance and reporting activities.
+                </li>
+
+                <li>
+                  Supported export documentation, permit applications and coordination with logistics and clearing stakeholders.
+                </li>
+
               </ul>
 
             </div>
 
           </article>
 
+
+
           <!-- UWEZO FUND -->
+
           <article class="timeline-item">
 
             <div class="timeline-date">
               MAR 2025 — MAR 2026
               <span>NAIROBI, KENYA</span>
             </div>
+
 
             <div class="timeline-content">
 
@@ -636,20 +774,33 @@
               </h4>
 
               <ul>
-                <li>Reviewed loan repayment performance across all 290 constituencies in Kenya, identifying areas with relatively high and low repayment rates.</li>
 
-                <li>Analysed repayment trends to support credit monitoring and highlight constituencies requiring further follow-up.</li>
+                <li>
+                  Reviewed loan repayment performance across all 290 constituencies in Kenya, identifying areas with relatively high and low repayment rates.
+                </li>
 
-                <li>Organised and analysed programme financial information using Excel to support monitoring and reporting.</li>
+                <li>
+                  Analysed repayment trends to support credit monitoring and highlight constituencies requiring further follow-up.
+                </li>
 
-                <li>Prepared financial summaries and supported the preparation of reports for programme activities.</li>
+                <li>
+                  Organised and analysed programme financial information using Excel to support monitoring and reporting.
+                </li>
+
+                <li>
+                  Prepared financial summaries and supported the preparation of reports for programme activities.
+                </li>
+
               </ul>
 
             </div>
 
           </article>
 
+
+
           <!-- JUBILEE ASSET MANAGEMENT -->
+
           <article class="timeline-item">
 
             <div class="timeline-date">
@@ -657,9 +808,11 @@
               <span>KENYA</span>
             </div>
 
+
             <div class="timeline-content">
 
               <h3>Financial Advisor</h3>
+
               <h4>Jubilee Asset Management</h4>
 
               <p>
@@ -676,40 +829,60 @@
 
     </section>
 
-    <!-- EDUCATION SECTION -->
+
+
+    <!-- ================= EDUCATION SECTION ================= -->
+
     <section class="section container education-section" id="education">
 
       <div class="section-heading">
+
         <p class="eyebrow">05 / EDUCATION</p>
+
         <h2>
           Learning with<br>
           <span>purpose.</span>
         </h2>
+
       </div>
+
 
       <div class="education-grid">
 
+
         <article>
+
           <span class="edu-year">2020 — 2024</span>
+
           <h3>BSc Financial Engineering</h3>
+
           <p>
             Jomo Kenyatta University of Agriculture and Technology (JKUAT)
           </p>
+
         </article>
 
+
         <article>
+
           <span class="edu-year">2025</span>
+
           <h3>Data Analytics Programme</h3>
+
           <p>
-            ALX Africa · Data Analytcs certificate
+            ALX Africa · Data Analytics Training
           </p>
+
         </article>
 
       </div>
 
     </section>
 
-    <!-- CONTACT SECTION -->
+
+
+    <!-- ================= CONTACT SECTION ================= -->
+
     <section class="contact-section" id="contact">
 
       <div class="container contact-inner">
@@ -725,12 +898,17 @@
           Interested in finance, data analysis or business intelligence opportunities? I'd be glad to connect.
         </p>
 
+
         <p class="email-address">
+
           Email:
+
           <a href="mailto:mjepkorir69@gmail.com">
             mjepkorir69@gmail.com
           </a>
+
         </p>
+
 
         <div class="contact-actions">
 
@@ -738,16 +916,18 @@
             Email me ↗
           </a>
 
-          <a class="contact-link"
-             href="https://github.com/mmagut5"
-             target="_blank"
-             rel="noopener">
+          <a
+            class="contact-link"
+            href="https://github.com/mmagut5"
+            target="_blank"
+            rel="noopener noreferrer">
             GitHub ↗
           </a>
 
-          <a class="contact-link"
-             href="assets/img/Mercy_Jep_CV.pdf"
-             download>
+          <a
+            class="contact-link"
+            href="assets/img/Mercy_Jep_CV.pdf"
+            download>
             Download CV ↓
           </a>
 
@@ -759,14 +939,19 @@
 
   </main>
 
-  <!-- FOOTER -->
+
+
+  <!-- ================= FOOTER ================= -->
+
   <footer class="footer container">
 
     <a class="brand" href="#home">
       MM<span>.</span>
     </a>
 
-    <p>Designed with curiosity. Built around insight.</p>
+    <p>
+      Designed with curiosity. Built around insight.
+    </p>
 
     <span>
       © <span id="year"></span> Mercy Magut
@@ -774,8 +959,12 @@
 
   </footer>
 
+
+
+  <!-- JAVASCRIPT -->
+
   <script src="script.js"></script>
 
 </body>
-</html>
 
+</html>
