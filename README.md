@@ -1,7 +1,6 @@
 I turn complex transactional data, financial metrics, and customer behavior into clear insights, interactive dashboards, and actionable business strategies.
 
- [mjepkorir69@gmail.com](mailto:mjepkorir69@gmail.com) ·  [GitHub](https://github.com/mmagut5) ·  [Google Sites Portfolio](https://sites.google.com/view/mercymagut/home)
-
+ [mjepkorir69@gmail.com](mailto:mjepkorir69@gmail.com) ·  
 ---
 
 ## About Me
@@ -17,47 +16,6 @@ I'm a finance and data analytics professional with a B.Sc. in Financial Engineer
 | Visualization & Reporting | Power BI, Excel (Pivot Tables, Pivot Charts), Dashboard Development, Financial Reporting |
 | Accounting & Finance Tools | QuickBooks, Invoicing, Reconciliation, Accounts Receivable |
 | Finance & Risk | Financial Analysis, Financial Modeling, Credit Analysis, Credit Risk Monitoring, Loan Portfolio Analysis, Risk Analysis |
-
----
-
-## Featured Projects
-
-### 1. Unlocking Retail Growth: Customer Behavior Analysis Dashboard
-Transforming consumer data into targeted marketing and retention strategies.
-
-![Customer Behavior Dashboard](assets/img/customer_behavior_analysis.png)
-
-- Cleaned and prepared **3,900 purchase records** using Python (pandas)
-- Ran analysis queries in **PostgreSQL**
-- Built an interactive **Power BI** dashboard to surface customer segments, buying patterns, and retention opportunities
-- **Tech:** Python · PostgreSQL · Power BI
-- 📄 [Read the full report](https://drive.google.com/open?id=1rH0tacD8z2b6nsejMZgjnKb9wlvqxTeoJ-XycNSBhgw)
-- 🔗 [GitHub repo](https://github.com/mmagut5/customer_behavior-_analysis)
-
-### 2. Bike Sales Dashboard Analysis
-An interactive Excel dashboard built with Pivot Tables and Pivot Charts to analyze bike purchase patterns across customer demographics: income, age, gender, education, marital status, region, and commute distance.
-
-![Bike Sales Dashboard](assets/img/bike_sales_dashboard.png)
-
-- Identified purchasing patterns and generated data-driven customer insights
-- **Tech:** Microsoft Excel (Pivot Tables, Pivot Charts)
-- 📄 [Read the report](https://drive.google.com/open?id=1Su3sWF_RuLxenMPZuLyBsoh5tW5dwjYKWuWdl2s3lhY)
-
-### 3. Personal Finance & Budget Tracker (50/30/20 Framework)
-A dynamic Google Sheets tracker built around the 50/30/20 budgeting rule.
-![Personal Finance Tracker](assets/img/finanace_tracker.png)
-
-- Tracks income and expenses with dropdown-based categorization
-- Automatically calculates target vs. actual ratios
-- Visualizes cash flow distribution with real-time charts
-- **Tech:** Google Sheets
-- 📄 [View the tracker](https://drive.google.com/open?id=1QGpGCgPQ2_rMVoiJPgsMcrWyqVq5YOcO76mi4wnaE6M)
-
-### 4. Layoffs Data Cleaning & Exploratory Data Analysis (SQL)
-Cleaned and explored a global layoffs dataset in MySQL: removing duplicates, standardizing data, handling null values, and running EDA to uncover trends across companies, industries, and time.
-
-- **Tech:** MySQL
-- 🔗 [GitHub repo](https://github.com/mmagut5/Layoffs_data_analysis_sql-))
 
 ---
 
