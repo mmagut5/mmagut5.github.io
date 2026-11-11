@@ -1,8 +1,3 @@
-I turn complex transactional data, financial metrics, and customer behavior into clear insights, interactive dashboards, and actionable business strategies.
-
- [mjepkorir69@gmail.com](mailto:mjepkorir69@gmail.com) ·  
----
-
 ## About Me
 
 I'm a finance and data analytics professional with a B.Sc. in Financial Engineering and hands-on experience in financial analysis, credit monitoring, and reconciliation. I specialize in exploratory data analysis, database modeling, and interactive visual reporting, with a focus on financial trends, customer behavior, and operational performance, so organizations can optimize strategy, reduce risk, and grow revenue.
